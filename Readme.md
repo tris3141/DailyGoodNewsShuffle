@@ -35,11 +35,11 @@ You need to have Python installed on your machine. You can download it from [her
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/tris3141/DailyGoodNewsShuffle.git
 ```
 2. Navigate into the cloned repository
 ```bash
-cd your-repo-name
+cd DailyGoodNewsShuffle
 ```
 3. Install the required packages
 ```bash
@@ -62,4 +62,3 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 ```
-Remember to replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
