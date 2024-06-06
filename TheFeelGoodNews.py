@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    api_key = '865100d9a4704df99c24c3e3542c1226'
+    api_key = ""
     url = f'https://newsapi.org/v2/everything?q=funny+technology&apiKey={api_key}&pageSize=10&sortBy=Popularity'
 
     try:

@@ -42,7 +42,7 @@ def get_random_index():
 @app.route("/")
 def home():
     # This line creates a variable called "api_key" and assigns it a value.
-    api_key = "865100d9a4704df99c24c3e3542c1226"
+    api_key = ""
     
     # This line creates a variable called "url" and assigns it a value.
     # The value is a web address that we will use to get news articles.
